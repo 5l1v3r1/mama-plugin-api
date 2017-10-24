@@ -1,0 +1,6 @@
+{
+    "bundle.activator": true,
+    "bundle.name": "Example Particle Analyzer Plugin",
+    "bundle.symbolic_name": "ExampleParticleAnalyzer",
+    "bundle.version": "1.0.0"
+}

@@ -1,0 +1,10 @@
+[requires]
+CppMicroServices/3.0.0@mama/stable
+OpenCV/3.1.0@mama/stable
+
+[generators]
+cmake
+
+[options]
+CppMicroServices:shared=True
+OpenCV:shared=True
